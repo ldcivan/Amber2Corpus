@@ -1,5 +1,5 @@
 # Amber2Corpus
-基于python的语料处理程序，能将[安柏网](https://ambr.top/)的剧情文本转换为bilibili/Index-1.9B所需的语料csv
+基于python的语料处理程序，能将[安柏网](https://ambr.top/)的剧情文本转换为[bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B)所需的语料csv
 
 ## 获取未处理文件
 * 自行前往 安柏网 找到自己要的剧情章节；
